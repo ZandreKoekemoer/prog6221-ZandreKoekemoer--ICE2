@@ -12,3 +12,18 @@ C:\Users\zandr\OneDrive\Documents\Schoolwork\ICE2\ICE2\obj\Debug\net8.0\refint\I
 C:\Users\zandr\OneDrive\Documents\Schoolwork\ICE2\ICE2\obj\Debug\net8.0\ICE2.pdb
 C:\Users\zandr\OneDrive\Documents\Schoolwork\ICE2\ICE2\obj\Debug\net8.0\ICE2.genruntimeconfig.cache
 C:\Users\zandr\OneDrive\Documents\Schoolwork\ICE2\ICE2\obj\Debug\net8.0\ref\ICE2.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\bin\Debug\net8.0\ICE2.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\bin\Debug\net8.0\ICE2.deps.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\bin\Debug\net8.0\ICE2.runtimeconfig.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\bin\Debug\net8.0\ICE2.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\bin\Debug\net8.0\ICE2.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\obj\Debug\net8.0\ICE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\obj\Debug\net8.0\ICE2.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\obj\Debug\net8.0\ICE2.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\obj\Debug\net8.0\ICE2.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\obj\Debug\net8.0\ICE2.sourcelink.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\obj\Debug\net8.0\ICE2.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\obj\Debug\net8.0\refint\ICE2.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\obj\Debug\net8.0\ICE2.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\obj\Debug\net8.0\ICE2.genruntimeconfig.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\GitHub\prog6221-ZandreKoekemoer--ICE2\ICE2\obj\Debug\net8.0\ref\ICE2.dll
